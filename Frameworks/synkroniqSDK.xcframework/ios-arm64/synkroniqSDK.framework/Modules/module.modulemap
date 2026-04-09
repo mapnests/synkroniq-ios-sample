@@ -1,0 +1,6 @@
+framework module synkroniqSDK {
+  umbrella header "synkroniqSDK.h"
+  export *
+
+  module * { export * }
+}
