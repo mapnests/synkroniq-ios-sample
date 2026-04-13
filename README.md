@@ -44,6 +44,8 @@ synkroniqSDK ships as a pre-built `.xcframework`. There is no SPM or CocoaPods s
 
 ## Getting Started
 
+**For API key, please contact the Synkroniq Developer Team.**
+
 Call `initialize` once, before any API method — typically in `AppDelegate.application(_:didFinishLaunchingWithOptions:)`:
 
 ```swift
