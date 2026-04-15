@@ -285,6 +285,9 @@ SynkroniqSDK.shared.getTickets(requestBody: body) { result in
 
 ---
 
+## Note:getTicketsList also supports a custom type parameter in the request body.
+
+
 #### `createTicket(requestBody:completion:)`
 
 Creates a new ticket.
